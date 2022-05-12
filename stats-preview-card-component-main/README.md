@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://github.com/adebimpecole/stats-preview-card-component-main.git)
 - Live Site URL: (https://legendary-khapse-9da717.netlify.app/)
 
 ## My process
